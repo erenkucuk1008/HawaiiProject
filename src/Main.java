@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hello");
         System.out.println("I am learning commit in IntteliJ");
         //line1
+        //line2
     }
 }
